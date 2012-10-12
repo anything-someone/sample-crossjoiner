@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# eclipse Files #
+.classpath
+.project
+.settings
+
+# Maven Files #
+target
+
